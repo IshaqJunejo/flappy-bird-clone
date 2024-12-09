@@ -4,7 +4,7 @@ This Flappy Bird Clone was made as our First Semester Project in Bachelors of Sc
 
 ### Members
 This was made as a group project by,
-- Syed Muhammad Irtaza
+- [Syed Muhammad Irtaza](https://github.com/syedirtaza10/)
 - [Abdul Rehman](https://github.com/abdul-rehman-rajput/)
 - [Khalil Shaikh](https://github.com/khalil-oss)
 - [Muhammad Ishaque](https://github.com/IshaqJunejo/)
