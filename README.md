@@ -1,6 +1,6 @@
 # Flappy Bird Clone
 
-This Flappy Bird Clone was made as our First Semester Project in Bachelors of Science in Artificial Intelligence from Mehran University of Engineering and Technology, Jamshoro.
+This Flappy Bird Clone was made as our First Semester Project in Bachelors of Science in Artificial Intelligence from **MUET** (Mehran University of Engineering and Technology), Jamshoro.
 
 ### Screenshots
 ![Starting Screen](Screenshots/Start-Screen.png)
@@ -18,11 +18,11 @@ This Flappy Bird Clone was made as our First Semester Project in Bachelors of Sc
 ### Members
 This was made as a group project by,
 - [Syed Muhammad Irtaza](https://github.com/syedirtaza10/)
-- [Abdul Rehman](https://github.com/abdul-rehman-rajput/)
+- [Abdul Rehman Rajput](https://github.com/abdul-rehman-rajput/)
 - [Khalil Shaikh](https://github.com/khalil-oss)
-- [Muhammad Ishaque](https://github.com/IshaqJunejo/)
+- [Muhammad Ishaque Junejo](https://github.com/IshaqJunejo/)
 - Masab Memon
-- [Muhammad Hammad](https://github.com/Hammad-18-03/)
+- [Hammad Arain](https://github.com/Hammad-18-03/)
 
 ### External Resources
 
